@@ -50,7 +50,7 @@ function makeSound(key) {
             break;
 
         case "y":
-            var dummy = new Audio("./sounds/dummy-yah.mp3")
+            var dummy = new Audio("./sounds/295_1.mp3")
             dummy.play()
             break;
     
